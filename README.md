@@ -15,7 +15,7 @@ Points To Remember if adding/updating new Language :-
 
 Never remove any short codes or escape sequences like 
 
-\n,\',&s,<br>,<font> etc 
+\n, \',&s, < br>, < font> etc 
 
 so just only replace english words to your language without changing any symbols.
   
