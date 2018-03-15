@@ -2,6 +2,7 @@
 Translation Files For Uret Patcher For Android
 
 Translate all three files i.e. help.html, troubelshoot.html and strings.xml to your language.
+
 a. res/assets/help-en.html
 b. res/assets/troubelshoot-en.html
 c. res/strings/strings-en.xml
