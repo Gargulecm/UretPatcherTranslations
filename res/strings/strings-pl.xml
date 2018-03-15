@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Uret Patcher</string>
+    <string name="upd">Dostępność Aktualizacji</string>
+    <string name="tss">Rozwiązywanie Problemów</string>
+    <string name="change">Dziennik Zmian</string>
+    <string name="set">Ustawienia</string>
+    <string name="hlp">Pomoc</string>
+    <string name="about">O Programie</string>
+    <string name="don">Dotacja</string>
+    <string name="exit">Wyjście</string>
+    <string name="pa">Patch</string>
+    <string name="to">Narzędzia</string>
+    <string name="log">Zmiany W Aplikacji</string>
+    <string name="genr">Główne</string>
+    <string name="lang">Język</string>
+    <string name="clang">Zmiana Języka</string>
+    <string name="orie">Orientacja</string>
+    <string name="corie">Zmiana Orientacji</string>
+    <string name="othr">Inne</string>
+    <string name="vib">Vibracja</string>
+    <string name="cvib">Przy Naciśnięciu</string>
+    <string name="hid">Ukryj Patchera</string>
+    <string name="ext">Extra</string>
+    <string name="chid">Ukryj Patchera Przed Innymi Aplikacjami \n(Wymagany Moduł Xposed Włączony I Uruchomiony Ponownie)</string>
+    <string name="intsto">Pamięć Wewnętrzna Lokalizacja</string>
+    <string name="find">Odszukaj Mnie</string>
+    <string name="csort">Zmiana Porządku Sortowania Aplikacji</string>
+    <string name="sort">Sortuj</string>
+    <string name="upa">Unpatch</string>
+    <string name="app">..Aplikacja..</string>
+    <string name="internal">Wybierz Pamieć Wewnętrzna Lokalizacja</string>
+    <string name="perm">Wymagane Uprawnienia</string>
+    <string name="permmsg">Proszę Zagwarantować Pełne Uprawnienia Aby Skorzystać Z Tej Opcji...</string>
+    <string name="internalmsg">Jeśli Nie Jesteś Pewien Kliknij \'Anuluj\' Jak Jest Prawidłowe.\n\nPamięć Wewnętrzna Lokalizacji Nie Jest Ustawiona\n\nTwojego Urządzenia Pamięć Wewnętrzna Lokalizacji Jest :- \n\'%1$s\'\n\nJeżeli Jest Poprawne Kliknij \'ANULUJ\' Albo Jak Jest Nie Poprawnie Naciśnij \'ZAZNACZ LOKALIZACJĘ\' Aby Wybrać Root W Folderze Pamięci Wewnętrznej Ręcznie.\n\nTa Lokalizacja Będzie Użyta Do Pracy Patchera.\nPS Lokalizację Można Również Ponownie Wybrać W Ustawieniach.\n\nUWAGA: - Wybór Niewłaściwej Lokalizacji Może Prowadzić Do Awarii Lub Patcher Może Zawieść W Niektórych Zadaniach.</string>
+    <string name="selctintloc">Wybierz Wewnętrzną Pamięc Najpierw Potem Kliknij Opcję Ponownie Aby Kontynuować..</string>
+    <string name="plzrest">Proszę Zrestartuj Aplikację Dla Uzyskania Efektu!!</string>
+    <string name="letitchk">Czekaj Sprawdzę Połączenie Z Serwerem..</string>
+    <string name="intnotavai">Internet Jest Niedostępny Nie Mogę\'Kontynuować..</string>
+    <string name="ser">Znajdż W Play Store</string>
+    <string name="reb">Uruchom Ponownie</string>
+    <string name="done">Udało Się Zobacz Status</string>
+    <string name="cach">Czyść</string>
+    <string name="pmenuinfo">Uwaga :- Odpatchuj Działa W \'Kodzie Poprawki\',\'Poprawce Licencji\' Oraz \'Poprawce Dalvik\',Nie Dostępny Jest W\'Dalvik Poprawce\',\'Poprawce Modułu\',\'Natywnym Patchu\',\'Wygenerować łatkę\' Oraz \',W Zachowanej Poprawce\'.\n\nPamiętaj :- Przed Kolejną Aktualizacją Do Nowej Wersji Unpatchuj Aplikację Zaktualizuj Ją I Zpatchuj Ponownie (Wymagane W Kodzie Poprawki).</string>
+    <string name="pmenu">Menu Patcha</string>
+    <string name="selloc">Zaznacz Lokalizację</string>
+    <string name="anim">Ożywienie</string>
+    <string name="canim">Zmiana animacji listy aplikacji</string>
+    <string name="font">Czcionka</string>
+    <string name="cfont">Zmiana czcionki</string>
+    <string name="unipat">Uniwersalne Patchuj</string>
+    <string name="down">Ściąganie</string>
+    <string name="bati">Włącz 32 Bitową Instrukcję W Zestawie</string>
+    <string name="cbati">Użyj 32-Bitowy Zestaw Instrukcji W 64-Bitowym Firmware Do Patchowania\n(Można Wybrać Tylko W 64-Bitowym Firmware ,Patch Ten Wykorzystuję 64-Bitową Instrukcję Ustawiając Domyślnie Na 64-Bity Firmware Do Patchowania,Włącz Tę Opcję Jeżeli Nie Będzie Rezultatu W Patchowaniu Na 64-Bitowych Firmware Niektóre Z Nich Używają 32-Bitowej Instrukcji Ustaw Nawet Jeżeli Jest 64-Bity Firmware)</string>
+    <string name="suppat">Wsparcie Patcha</string>
+    <string name="hidtools">Ukryj Narzędzia Patchujące</string>
+    <string name="chidtools">Ukryj Narzędzia Patchujące Takie Jak Lucky Patcher, Freedom, Game Killer W Innych Aplikacjach\n(Wymaga Moduł Xposed Włączony I Uruchomiony Ponownie)</string>
+    <string name="nonbati">64 Bity Firmware Wykryto</string>
+    <string name="cnonbati">Twoje Firmware Jest 64 Bity.\n\nPatcher Wykorzystuję 64 Bitowy Zestaw Instrukcji Ustaw Jako Domyślne W 64 Bitowym Firmware Aby Zpatchować Ale Niektóre Firmware Używają 32 Bitowej Instrukcji Ustaw Jeśli Jest 64 Bity Firmware Więc Jeśli Patch Nie Daję Rezultatów W 64 Bitowym Firmware Wtedy Można Włączyć 32 Bitową Instrukcję Dostepną W Patchu\' Ustawienia.</string>
+    <string name="shwagn">Pokaż Ponownie</string>
+    <string name="dntshwagn">Nie Pokazuj Ponownie</string>
+    <string name="impset">Import Ustawień</string>
+    <string name="cimpset">Import Ustawień Z Urządzenia</string>
+    <string name="setimport">Ustawienia Zaimportowane Poprawnie\nAplikacja Teraz Się Przeładuję</string>
+    <string name="setimporterror">Nie Znaleziono Kopii Do Importu\nCzy Zaznaczona Wewnętrzna Lokalizacja Jest Dobra?</string>
+    <string name="expset">Export Ustawień</string>
+    <string name="cexpset">Export Ustawień Tego Urządzenia</string>
+    <string name="setexport">Ustawienia Exportowane Do</string>
+    <string name="setexporterror">Nie Można Ustawień Eksportować Jako Katalog Nie Jest Zapisywalny\nCzy Zaznaczona Wewnętrzna Lokalizacja Jest Dobra?</string>
+    <string name="autoupdate">Włącz Auto Aktualizację</string>
+    <string name="cautoupdate">Sprawdź Aktualizację Automatycznie</string>
+    <string name="reload">Przeładuj</string>
+    <string name="hidefab">Ukryj FAB</string>
+    <string name="chidefab">Ukryj Floating Action Button</string>
+    <string name="spf">Naciąganie</string>
+    <string name="apl">Zastosować</string>
+    <string name="hk">Hak</string>
+    <string name="lm">Emulacja</string> 
+    <string name="rnd">Losowo</string> 
+    <string name="clr">Wyczyść</string> 
+    <string name="clrset">Reset Ustawień</string> 
+    <string name="cclrset">Reset Ustawień W Patchczu</string> 
+    <string name="setclr">Ustawienia Zresetowane\nAplikacja Zostanie Otwarta  Ponownie</string>	
+    <string name="lau">Uruchom</string>
+    <string name="sftrb">Proszę O Miękki Restart Urządzenia Aby Zmiany Były Widoczne!!</string>
+    <string name="search">Szukaj</string>
+    <string name="ads">Usuń Reklamy</string>
+    <string name="strprch">Usuń Zapamiętane Zakupy</string>
+    <string name="selectapps">Wybierz Aplikację</string>
+    <string name="saemu">Wybierz Aplikację Do Emulacji</string>
+    <string name="emuandhook">Emulacja Licencji Oraz Licencja Hook Nie Mogą Być Zaznaczone Razem , Jedna Z Nich Się Wyłączy..</string>
+    <string name="onlyinprem">Dostępne Tylko W Trybie Premium..\nProszę Uruchomić Tryb Premium W Dotacja Opcje Patchera..</string>
+    <string name="xposednotfound">Xposed Nie Odnaleziony</string>
+    <string name="xposederror">Nie\ Można Kontynuować, Xposed Nie Odnaleziony..\n\nCzy Moduł Xposed Framework Zostal Zainstalowany Oraz Uruchomiony A Urządzenie Wyłączone I Włączone Ponownie ?\n\nWiesz Co To Xposed ?\nSpróbuj Poszukać W Google.</string>
+    <string name="xposederrorbutcanwork">Nie\'Można Emulować, Xposed Nie Znaleziony..\n\nCzy Moduł Xposed Framework Zostal Zainstalowany Oraz Uruchomiony A Urządzenie Wyłączone I Włączone Ponownie ?\n\nNie Masz Xposed ? Nie Ma Problemu\n\nMożesz Nadal Używać Emulację Licencji Oraz Rachunku Emulacji Z Rootem Ale Musisz Zastosować \'Wspieraj Emulację\' Patch Z Universalnej Poprawki Do Docelowej Aplikacji Oraz Pamiętaj Root To Rodzaj Emulacji Który Nie Jest Bliski Do Xposed To Sposób Emulacji Który Jest Dobrej Jakości.</string>
+    <string name="sptemu">Wsparcie Emulacji</string>
+    <string name="faqs">FAQs</string>
+    <string name="unidetails">
+	.......Detale.......\n\n
+-> Patch :- Patch Licencji Sprawdza Cel Aplikację, Musi Być Odpatchowana Przed Aktualizacją Docelową.\n\n
+-> Unpatch :- Usuń Patch Z Aplikacji Docelowej, Zwraca Aplikację Do Normalnego Stanu Nielicencjonowanego, Powinien Być Używany Do Usuwania Poprawek Przed Aktualizacją Aplikacji Docelowej.\n\n
+-> Wsparcie Patcha  :- Wsparcie Patcha Dla Aplikacji Pracującej Z Poprawką Emulacji, Powinien Być Stosowany Najpierw Przed użyciem Poprawki Lub Emulacji.\n\n
+-> Wsparcie Emulacji :- Patch Cel Aplikacja I Jej Emulacja Licencyjna Oraz Rozliczeniowa Pracująca Z Rootem, Jeżli Masz Xposed Wtedy Nie Potrzebujesz Tego Xposed Zadba O To Sam Jest To Alternatywa  \'Zaznacz Aplikację\' Opcja Emulacji.\n\n
+-> Usuñ Reklamy :- Usuń Reklamy Google itp. Z Aplikacji.\n\n
+        .......Uwaga.......\n\n
+-> Jeżeli Twoja Aplikacja Wspiera Poprawkę Patcha Wtedy Upewnij Się Która Poprawka Powinna Być Zastosowana Najpierw Przed Zpatchowaniem.\n\n
+-> Wyświetlane Są Tylko Aplikację Zainstalowane Przez Użytkownika Z Zamiarem Uruchomienia.\n
+    </string>
+    <string name="emudetails">
+        .......Detale.......\n\n
+-> Emulacja Licencji :- Nie Wymaga Zainstalowania Sklepu play Zainstalowana Przekierowywuję licencję do Patchera, Może Być Użyta Bez Xposed Ale Może Być On Wymagany \'Wspieraj Emulację\' Patch Do Docelowej Aplikacji Z Interfejsu Universalny Patch.\n\n
+-> Emulacja Billingu :- Nie Wymaga Zainstalowania Sklepu play Zainstalowana Przekierowywujê Billing do Patchera, Może Być Użyta Bez Xposed Ale Może Być On Wymagany\'Wspieraj Emulację\' Patch Do Docelowej Aplikacji Z Interfejsu Universalny Patch.\n\n
+-> Licencja Hook :- Wymaga Zainstalowania Sklepu Play A Także Połączenia Z Internetem W Celu Weryfikacji I Przechwytywania Danych Sklepu Play Dla Zapytań I Odpowiedzi, Xposed Jest Obowiązkowy I Nie Może Być Użyty Bez Niego.\n\n
+-> Zaznacz Aplikację :- Zaznacz Aplikację którą Chcesz Emulować, Domyślnie Wszystkie Aplikację Zainstalowane Przez Użytkownika Są Zaznaczone, Jesli Wycofasz Dowolną Aplikację Nawet Jeżeli Emulacja Jest Włączona Ta Aplikacja Wygra\'Musi Być Hooked, Powinna być Używana Do Wykluczenia Kupionych Legalnie Aplikacji, Wymaga Xposed Więc Jeżeli Nie Masz Xposed Wtedy Użyj \'Wsparcie Emulacji\' Opcja Docelowej Aplikacji W Universalalnym Patchu To Jest Alternatywa Tej Opcji.\n\n
+        .......Uwaga.......\n\n
+-> Zawsze Sprawdź  \'Zakupy Sklepu\' Opcja Podczas Zakupów Materiałów Pożądanych Ale Nigdy Nie Niepożądanych Pozycji.\n
+Niepożądane :- Premium, Pro Etc In Apps.\n
+Pożądane :- Monety, Klejnoty Itp. W Grach.\n\n
+-> Po Wyłączeniu Emulacji Rozliczeñ Niektóre Aplikacje Z Elementami Niemożliwymi Do Odzyskania Będą Przywracane Do Stanu Wolnego, Ale Po Włączeniu Go Ponownie Będzie Wracać Do Stanu Kupna, Więc Lepiej Jest Zachować Emulację Rozliczeniową WŁĄCZONĄ Działa Niezawodnie, Ponieważ Te Aplikację Zachowają Synchronizację Zakupów.\n\n
+-> Również Po Wyłączeniu Emulacji Licencji, Niektóre Aplikacje Wymagają Licencjonowania Ponownie, Ponieważ Zachowują Synchronizację Licencji, Więc Lepiej Jest Zachować Emulację Licencji WŁĄCZONĄ  Działa Niezawodnie.\n\n
+-> Jeżeli Masz Legalną licencję Lub Zakup Prawny, Wybierz Tylko Tę Aplikację, Które Chcesz Emulować, lub Jeżeli Nie Wybrano Wszystkich Aplikacji Na Emulację, To Wyłącz Je Bo Wspólnie Koligują, Emulowanie Emulacji Bilingu I Hook Włączone Jednocześnie Da Problem, Ponieważ Każdy Z Nich Włącza Się. A Do Prawnej Licencji I Zakupu, Możesz Również Użyć Emulacji Na Swojej Prawdziwej Licencji Lub Zakupach, Która Będzie Działała W Większości Przypadków.\n\n
+-> Niektóre Aplikację Używają Starej Biblioteki Licencjonowania, kiedy Licencja Jest Włączona A Aplikacja Nie jest Zaznaczona Na Liście Nie Jest Licencjonowana legalnie bo Patcher Interferujê Stare LVL Biblioteki Więc Wyłącz Emulację Nie Będzie Zakłócała rzadnej Prośby O Licencję.Została Zlicencjonowana Możesz Ponownie Włączyć Biling Emulacji\n\n
+-> Jeżeli Nie Masz Xposed Wtedy Użyj Licencji I Billingu Emulacji Z Roota, Jest Wymagany \'Wsparcie Emulacji\' Patch Z Uniwersalnej Poprawki Do Docelowej Aplikacji, Ale należy Pamiętać że Główny Rodzaj Emulacji Z Roota Nie Jest Nawet Bliski Ukrytej Emulacji Którą Jest Xposed To Jest Wysoka Jakość.\n\n
+-> Niektóre Aplikację Mają Dodatkową Kontrolę, Więc Można Również Zastosować \'Poprawkę Do Wsparcia \' Z Uniwersalnej Poprawki Do Docelowej Aplikacji, Aby Pominąć Te Dodatkowe Kontrole, A Następnie Użyć Emulacji.\n\n
+-> Emulacja Nie Potrzebuję Szybkiego Uruchomienia, Po Włączeniu Dowolnej Emulacji Dobrze Byłoby Wymusić Zatrzymanie Tej Aplikacjii.\n
+    </string>
+	<string name="cuspat">Niestandardowy Patch</string>
+	<string name="kill">Zabij Aplikację</string>
+    <string name="clrdata">Wyczyść Dane</string>
+    <string name="uninst">Odinstaluj</string>
+    <string name="bkup">Kopia Zapasowa</string>
+    <string name="rstr">Przywróć</string>
+    <string name="bkapk">Kopia Zapasowa Aplikacji</string>
+    <string name="rsapk">Przywróć Aplikację</string>
+    <string name="clcacheapps">Wyczyść Cache Aplikacji</string>
+    <string name="clcachepart">Wyczyść Cache Partycji</string>
+    <string name="cldlvk">Wyczyść Dalvik Cache</string>
+    <string name="clodex">Wyczyść Nie Używany Dalvik Odex</string>
+    <string name="rbtsf">Miękki Restart</string>
+    <string name="rbt">Restart</string>
+    <string name="rbtrec">Restart Do Trybu Recovery</string>
+    <string name="pwrof">Wyłącz</string>
+    <string name="loadicons">Wyłącz Ikony Aplikacji</string>
+    <string name="cloadicons">Wyłącz Ładowanie Ikon Aplikacji I Użyj Za To Domyślnych Ikon</string>
+    <string name="hook1">Debugguj Wszystkie Aplikację\nUWAGA :- Nawet Jeśli Są Debuggowane Właściwości Aplikacji Są Fałszywe Lub Nieobecne W Manifeście.</string>
+    <string name="hook2">Wyłącz Sprawdzanie Debuggera\nUWAGA :- Spowoduję Nie Łączenie Z Debuggerem Nawet Jeśli Jest Podłączony.</string>
+    <string name="hook3">Wyłącz Sprawdzanie Wersji Androida W Trakcie Instalowania Aplikacji\nUWAGA :- Zainstaluj Aplikację Nawet Jeśli Wersja Androida Jest Niższa Od Minimalnej Wersji Aplikacji Wymaga.\nDziała Na Androidzie Lollipop 5.0 Oraz W Wyższej Wersji,W Niższej Może Działać Lub Nie.</string>
+    <string name="hook4">Dopuść Do Downgrade Aplikacji\nUWAGA :- Zainstaluj Starszą Wersję Aplikacji Nawet Jeśli Posiadasz Zainstalowaną Nowszą Wersje tej Samej Aplikacji To jest Właśnie Downgrade.\nDziała Na Androidzie Lollipop 5.0 Oraz W Wyższej Wersji,W Niższej Może Działać Lub Nie.</string>
+    <string name="hook5">Wyłącz Sprawdzanie Podpisu\nUWAGA :- Zainstaluj Tą Samą Aplikację Z Różnymi Podpisami Nawet Jeśli Posiadasz Inną Aplikację Ale Z innym Podpisem Zainstalują Się Obie.\nDziała Na Androidzie Lollipop 5.0 Oraz W Wyższej Wersji,W Niższej Może Działać Lub Nie.</string>
+    <string name="hook6">Wyłącz Podpis Aplikacji\nUWAGA :- Wyłącz Sprawdzanie Podpisu Gdy Aplikacja Jest Instalowana Dzięki Temu Modifkacja Plików APK. Wewnątrz Jest Prostsza Dla Developera Który Zachowuję Swój Stary Podpis.</string>
+    <string name="hook7">Wyłącz Wykryto Nakładkę\nUWAGA :- To Obejście Które Wykrywa Wyskakującą Nakładkę W Androidzie Podczas Udzielania Zezwoleń lub Przy Instalacji Aplikacji.</string>
+
+</resources>
