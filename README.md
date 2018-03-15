@@ -1,13 +1,15 @@
 # UretPatcherTranslations
 Translation Files For Uret Patcher For Android
 
-Translate all three files i.e. help.html, troubelshoot.html and strings.xml to your language.
+Translate all four files i.e. help.html, troubelshoot.html, faqs.html and strings.xml to your language.
 
 a. res/assets/help-en.html
 
 b. res/assets/troubelshoot-en.html
 
-c. res/strings/strings-en.xml
+c. res/assets/faqs-en.html
+
+d. res/strings/strings-en.xml
 
 Points To Remember if adding/updating new Language :-
 
@@ -21,7 +23,7 @@ so just only replace english words to your language without changing any symbols
   
 2. (Add the language files)
 
-When you translate all 3 files then make sure you keep the required files with Locale like
+When you translate all 4 files then make sure you keep the required files with Locale like
 
 strings-[Locale].xml
 
