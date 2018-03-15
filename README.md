@@ -29,6 +29,12 @@ help-[Locale].html
 
 troubelshoot-[Locale].html
 
+Also if the language locale is bn_BD then you should rename file this way
+
+strings-bn-BD.xml
+
+so instead of "bn_BD" change it to "bn-BD"
+
 Some of the locale i have mentioned below which you can use:
 
 Locale Language Code
