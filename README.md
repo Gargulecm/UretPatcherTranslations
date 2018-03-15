@@ -14,14 +14,19 @@ Points To Remember if adding/updating new Language :-
 1. (Add/Update the language files)
 
 Never remove any short codes or escape sequences like 
+
 \n,\',&s,<br>,<font> etc 
+
 so just only replace english words to your language without changing any symbols.
   
 2. (Add the language files)
 
 When you translate all 3 files then make sure you keep the required files with Locale like
+
 strings-[Locale].xml
+
 help-[Locale].html
+
 troubelshoot-[Locale].html
 
 Some of the locale i have mentioned below which you can use:
