@@ -149,5 +149,8 @@ Consumable :- Coins, Gems Etc In Games.\n\n
     <string name="hook5">Disable Signature Check\nNOTE :- Install The Same App With Different Signature Over Currently Installed With Other Signature.\nIt Works On Android Lollipop 5.0 And Above,On Below It May Work Or May Not.</string>
     <string name="hook6">Disable Signature Of APK\nNOTE :- Disable Signature Check While Installing APK So You Can Modify The Files Inside APK Without Signing It Again And Keeping The Old Developer Signature.</string>
     <string name="hook7">Disable Overlay Detected\nNOTE :- Bypass Overlay Detected Pop Up By Android While Granting Permissions Or Installing Apps.</string>
-    <string name="shwsa">Show System Apps</string>	
+    <string name="shwsa">Show System Apps</string>
+    <string name="theme">Themes</string>
+    <string name="ctheme">Change Theme Of Patcher</string>
+    <string name="settheme">Theme Changed Successfully\nApplication Will Reload Now</string>
 </resources>
