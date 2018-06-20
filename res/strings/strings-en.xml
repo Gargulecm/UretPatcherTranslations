@@ -153,4 +153,7 @@ Consumable :- Coins, Gems Etc In Games.\n\n
     <string name="theme">Themes</string>
     <string name="ctheme">Change Theme Of Patcher</string>
     <string name="settheme">Theme Changed Successfully\nApplication Will Reload Now</string>
+    <string name="hidedetails">Hide Device Details</string>
+    <string name="chidedetails">Hide Device Details On Dashboard</string>
+    <string name="shwaa">Show Apps Without Permissions</string>
 </resources>
