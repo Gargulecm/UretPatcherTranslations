@@ -156,4 +156,9 @@ Consumable :- Coins, Gems Etc In Games.\n\n
     <string name="hidedetails">Hide Device Details</string>
     <string name="chidedetails">Hide Device Details On Dashboard</string>
     <string name="shwaa">Show Apps Without Permissions</string>
+    <string name="bkdta">Backup Data</string>
+    <string name="rsdta">Restore Data</string>
+    <string name="rbdwn">Reboot Download</string>
+    <string name="rbbut">Reboot Bootloader</string>
+    <string name="rbsfm">Reboot Safe Mode</string>
 </resources>
