@@ -22,7 +22,7 @@
     <string name="cvib">Przy Naciśnięciu</string>
     <string name="hid">Ukryj Patch</string>
     <string name="ext">Extra</string>
-    <string name="chid">Ukryj Patcher Przed Innymi Aplikacjami \n(Wymagany Moduł Xposed Włączony I Uruchomiony Ponownie)</string>
+    <string name="chid">Ukryj Patch Przed Innymi Aplikacjami \n(Wymagany Moduł Xposed Włączony I Uruchomiony Ponownie)</string>
     <string name="intsto">Pamięć Wewnętrzna Lokalizacja</string>
     <string name="find">Odszukaj Mnie</string>
     <string name="csort">Zmiana Porządku Sortowania Aplikacji</string>
